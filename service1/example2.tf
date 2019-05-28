@@ -1,5 +1,5 @@
 variable "file_count2" {
-  default = 5
+  default = 10
 }
 
 resource "local_file" "foo2" {
